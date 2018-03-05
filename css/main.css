@@ -1,0 +1,21 @@
+* {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+ .darken-4 {
+   background-color:#000000;
+ }
+
+ .display {
+   float: left;
+   color:blue;
+   margin:15px;
+   border: 4px solid gray;
+   text-align: center;
+   height: 200px;
+   width: 200px;
+ }
+
+ .imagen {
+   width: 80%;
+ }
